@@ -3,6 +3,9 @@
   "displayName": "lol light",
   "description": "focus focus focus",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/leizha/lol-light-theme"
+  },
   "engines": {
     "vscode": "^1.99.0"
   },
