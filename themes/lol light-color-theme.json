@@ -151,7 +151,7 @@
       }
     },
     {
-      "scope": ["storage.type"],
+      "scope": ["storage.type.class", "storage.type.function"],
       "settings": {
         "fontStyle": "bold"
       }
