@@ -6,6 +6,7 @@
   "repository": {
     "url": "https://github.com/leizha/lol-light-theme"
   },
+  "publisher": "LOL",
   "engines": {
     "vscode": "^1.99.0"
   },
