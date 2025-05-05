@@ -157,7 +157,7 @@
       }
     },
     {
-      "scope": ["string.quoted"],
+      "scope": ["string"],
       "settings": {
         "foreground": "#0C9671"
       }
